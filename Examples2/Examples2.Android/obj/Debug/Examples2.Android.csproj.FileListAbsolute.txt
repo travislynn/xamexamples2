@@ -5,6 +5,8 @@ C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\com.companyname.E
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Examples2.dll
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\FormsViewGroup.dll
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Newtonsoft.Json.dll
+C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Plugin.Connectivity.dll
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
@@ -32,6 +34,12 @@ C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Examples2.pdb
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\FormsViewGroup.pdb
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\FormsViewGroup.dll.mdb
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Newtonsoft.Json.xml
+C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Plugin.Connectivity.pdb
+C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Plugin.Connectivity.xml
+C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Plugin.Connectivity.Abstractions.dll.mdb
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Xamarin.Forms.Core.pdb
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Xamarin.Forms.Core.xml
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
@@ -54,14 +62,6 @@ C:\dev\xamarin\Examples2\Examples2\Examples2.Android\obj\Debug\res\layout\toolba
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\obj\Debug\res\values\styles.xml
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\obj\Debug\R.cs.flag
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\obj\Debug\uploadflags.txt
-C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Examples2.dll.mdb
-C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Examples2.Android.dll.mdb
-C:\dev\xamarin\Examples2\Examples2\Examples2.Android\obj\Debug\android\assets\Examples2.Android.dll.mdb
-C:\dev\xamarin\Examples2\Examples2\Examples2.Android\obj\Debug\android\assets\Examples2.dll.mdb
-C:\dev\xamarin\Examples2\Examples2\Examples2.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-C:\dev\xamarin\Examples2\Examples2\Examples2.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-C:\dev\xamarin\Examples2\Examples2\Examples2.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\dev\xamarin\Examples2\Examples2\Examples2.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\dev\xamarin\Examples2\Examples2\Examples2.Android\bin\Debug\Examples2.Android.dll
 C:\dev\xamarin\Examples2\Examples2\Examples2\bin\Debug\Examples2.dll
 bin\Debug\Examples2.dll.mdb
@@ -82,6 +82,8 @@ bin\Debug\System.ComponentModel.Composition.pdb
 obj\Debug\linksrc\Examples2.Android.dll.mdb
 obj\Debug\linksrc\Examples2.dll.mdb
 obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Plugin.Connectivity.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.Connectivity.dll.mdb
 obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
 obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
 obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb

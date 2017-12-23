@@ -1,6 +1,8 @@
 Examples2
 FormsViewGroup
 Newtonsoft.Json
+Plugin.Connectivity.Abstractions
+Plugin.Connectivity
 System.ObjectModel
 System.Runtime
 Xamarin.Android.Arch.Core.Common

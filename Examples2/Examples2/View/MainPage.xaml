@@ -8,9 +8,9 @@
             <Label Text="Welcome to Xamarin.Forms!" />
             
             <Button Text="People Collection on Disk" x:Name="ListViewButton" Clicked="ListViewButton_OnClicked"></Button>
-            
-            
-            
+
+
+            <Button x:Name="ConnectivityButton" Text="Connectivity" Clicked="ConnectivityButton_OnClicked"></Button>
             
             
             

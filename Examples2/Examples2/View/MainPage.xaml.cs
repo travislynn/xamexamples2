@@ -14,5 +14,10 @@ namespace Examples2.View
         {
             Navigation.PushAsync(new ListViewPage());
         }
+
+        private void ConnectivityButton_OnClicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new ConnectivityPage());
+        }
     }
 }
