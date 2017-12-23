@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Examples2.View.ListViewPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="{Binding Title}" />
+            
+            <Button x:Name="AddItemButton" Text="Add Person" Clicked="AddItemButton_OnClicked"></Button>
+
+            <Label Text="ListView Demo with Images"></Label>
+            <ListView 
+                ItemsSource="{Binding People}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell
+                            Text="{Binding FirstName}"
+                            Detail="{Binding LastName}" />
+
+                        <!--Having this causes xaml build errors
+                        <TextCell
+                            Text="{Binding PhoneNumber}"
+                            Detail="{Binding Id}" />-->
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
